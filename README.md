@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avwenaghagha" alt="avwenaghagha" /></a> </p>
 
-- 👨‍💻  my projects stream analytics project is available at [https://github.com/avwenaghagha/Azure-streaming-analytics](https://github.com/avwenaghagha/Azure-streaming-analytics) ,https://lnkd.in/dQwfrX5G
+- 👨‍💻  my projects stream analytics project is available at [https://github.com/avwenaghagha/Azure-streaming-analytics](https://github.com/avwenaghagha/Azure-streaming-analytics) , https://lnkd.in/dQwfrX5G , https://github.com/avwenaghagha/-santrack-dashboard
 
 - ⚡ Fun fact **fun to be with**
 
